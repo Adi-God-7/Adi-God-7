@@ -34,7 +34,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Adi-God-7&theme=tokyonight&hide_border=true"/>
 </p>
-<img src="https://raw.githubusercontent.com/Adi-God-7/Adi-God-7/main/github-metrics.svg">
+<h2 align="center">📊 GitHub Metrics</h2>
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adi-God-7&theme=tokyo-night"/>
 ## 🐍 Contribution Snake
 <p align="center">

@@ -21,10 +21,8 @@
 <p align="left">
 <a href="https://twitter.com/@lord777555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lord777555" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya kumar" height="30" width="40" /></a>
-<a href="https://codesandbox.com/adi_god_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="adi_god_7" height="30" width="40" /></a>
 <a href="https://kaggle.com/adigod7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adigod7" height="30" width="40" /></a>
 <a href="https://instagram.com/adi_god_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adi_god_7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aditya kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya kumar" height="30" width="40" /></a>
 <a href="https://discord.gg/adigod_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adigod_7" height="30" width="40" /></a>
 </p>
 

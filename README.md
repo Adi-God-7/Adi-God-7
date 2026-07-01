@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adi-God-7&label=Profile%20views&color=0e75b6&style=flat" alt="Adi-God-7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adi-God-7" alt="adi-god-7" /></a> </p>
+
 
 - 🌱 I’m currently learning **React,Node.js, MongoDB, Express.js, Gen AI**
 

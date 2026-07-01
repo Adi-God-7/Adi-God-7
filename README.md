@@ -16,7 +16,9 @@
 - 📫 How to reach me **ak1351548@gmail.com**
 
 - ⚡ Fun fact **I think i am lazy, but always complete my work before time. Don't know how**
-
+![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)
+![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@lord777555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lord777555" height="30" width="40" /></a>

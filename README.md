@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **React,Node.js, MongoDB, Express.js, Gen AI**
+- 🌱 I’m currently learning **Block Chain and Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-2wl6.onrender.com](https://portfolio-2wl6.onrender.com)
 

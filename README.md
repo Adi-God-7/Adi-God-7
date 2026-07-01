@@ -40,7 +40,7 @@
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adi-God-7&theme=tokyo-night"/>
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"

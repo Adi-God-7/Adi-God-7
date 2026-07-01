@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adi-god-7&show_icons=true&locale=en" alt="adi-god-7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi-god-7&" alt="adi-god-7" /></p>
+![Snake animation](https://raw.githubusercontent.com/Adi-God-7/Adi-God-7/output/github-snake.svg)
